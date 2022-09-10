@@ -5,12 +5,16 @@ a {
     color:red;
 }
 
+a:hover {
+    background-color: coral;
+}
+
 p.disclaimer {
     background-color: crimson;
     color:cyan;
 }
 
-div.Links {
+div.link {
     color:green;
     background-position: center;
 }
