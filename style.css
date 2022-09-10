@@ -2,10 +2,15 @@ table, th, td {
     border:1px solid black;
   }
 a {
-    color:red
+    color:red;
 }
 
 p.disclaimer {
     background-color: crimson;
-    color:cyan
+    color:cyan;
+}
+
+div.Links {
+    color:green;
+    background-position: center;
 }
