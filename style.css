@@ -4,3 +4,7 @@ table, th, td {
 a {
     color:red
 }
+
+p.disclaimer {
+    background-color: crimson;
+}
