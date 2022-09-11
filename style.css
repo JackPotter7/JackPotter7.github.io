@@ -32,4 +32,8 @@ span#animal {
     font-stretch: extra-expanded;
 }
 
+span.header {
+    background-color: orange;
+}
+
 
