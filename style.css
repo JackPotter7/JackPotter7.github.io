@@ -25,15 +25,28 @@ div.students {
     background-color: palevioletred;
 }
 span.box {
-    font-size: 20px;
+    font-size: 100px;
 }
 
 span#animal {
-    font-stretch: extra-expanded;
+    color: blue;
 }
 
 span.header {
     background-color: orange;
+}
+
+span.friends {
+    background-color:pink;
+    font-size: 50px;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.italic {
+    font-style: italic;
 }
 
 
