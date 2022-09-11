@@ -27,3 +27,9 @@ div.students {
 span.box {
     font-size: 20px;
 }
+
+span#animal {
+    font-stretch: extra-expanded;
+}
+
+
